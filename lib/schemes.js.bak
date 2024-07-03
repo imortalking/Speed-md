@@ -278,7 +278,7 @@ let dbs = {
       onlyadmin: "false",
       economy: "false",
       disablecmds: "false",
-      chatbot: "true",
+      chatbot: "false",
       mute: "false",
       unmute: "false",
       ...(optJson.sck || {})
