@@ -1967,7 +1967,7 @@ smd({
        try {
          await _0xb75e78.sendMessage(_0xb75e78.chat, {
            react: {
-             text: "🌟🎙",
+             text: "🎶",
              key: _0xb75e78.key
            }
          });
@@ -2014,7 +2014,7 @@ smd({
        } catch (_0x189dd8) {
          return await _0xb75e78.reply("Error While Downloading Video : " + _0x189dd8);
        }
-     } else if (_0x5b8ee5[0].includes("ꜱᴩᴇᴇᴅ ᴍᴅ • ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ")) {
+     } else if (_0x5b8ee5[0].includes("SPEED-ᴍᴅ • ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ")) {
        let _0x307bb6 = "*" + _0xb75e78.text.split(" ")[0] + " : ";
        const _0x56275d = _0x5b8ee5.find(_0x3b5e74 => _0x3b5e74.startsWith(_0x307bb6));
        if (_0x56275d) {
@@ -2025,7 +2025,7 @@ smd({
            if (_0x37a579.startsWith("http")) {
              await _0xb75e78.sendMessage(_0xb75e78.chat, {
                react: {
-                 text: 📽📸",
+                 text: "✨",
                  key: _0xb75e78.key
                }
              });
@@ -2064,7 +2064,7 @@ smd({
            const _0x2407a8 = _0x14618c.split("*")[1].replace("Id : ", "").trim();
            await _0xb75e78.sendMessage(_0xb75e78.chat, {
              react: {
-               text: "📲⚙",
+               text: "✨",
                key: _0xb75e78.key
              }
            });
