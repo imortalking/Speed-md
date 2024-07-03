@@ -221,7 +221,6 @@ module.exports = {
   mediafireDl: mediafireDl,
   mediafire: mediafire,
   dare: dare,
-  tiktok: tiktok,
   truth: truth,
   random_question: random_question,
   amount_of_questions: amount_of_questions,

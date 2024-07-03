@@ -1,6 +1,6 @@
 {
   "name": "Speed-md",
-  "description": "ᴀ ꜱᴜᴩᴇʀ ꜰᴀꜱᴛ ᴡʜᴀᴛꜱᴀᴩᴩ ʙᴏᴛ ꜰᴏʀ ᴇɴᴊᴏyᴍᴇɴᴛ ᴄʀᴇᴀᴛᴇᴅ ʙy malvin king 🤴",
+  "description": "Simple WhatsApp Bot created by malvin king 🤴",
   "logo": "https://github.com/malvinking/Speed-md/blob/main/lib/assets/downloadfile.jpg?raw=true",
   "keywords": ["ꜱᴩᴇᴇᴅ-ᴍᴅ", "ᴍᴀʟᴠɪɴ ᴋɪɴɢ","ꜱᴩᴇᴇᴅ-ᴍᴅ ʙᴏᴛ","ꜱᴩᴇᴇᴅ-ᴍᴅ ","malvinking","ꜱᴩᴇᴇᴅ ᴛᴇᴄʜ"],
   "success_url": "/",
@@ -12,22 +12,16 @@
       "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
       "required": true
     },
-    
+
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
+      "value": "false",
       "required": false
     },
-    
-    "CHAT BOT": {
-      "description": " put true for on & put false for off",
-      "required": false,
-      "value": "false"
-    },
-    
+
     "GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-      "value": "true",
+      "value": "false",
       "required": false
     },
     "BOT_NAME": {
@@ -43,12 +37,12 @@
     "READ_COMMAND": {
       "description": " Read bot cmds",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required": false,
-      "value": "5"
+      "value": "3"
     },
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status",
@@ -68,7 +62,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
-      "value": "available"
+      "value": "unavailable"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -96,7 +90,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "256756210243"
+      "value": "263780166288"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -104,7 +98,7 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "public"
+      "value": "private"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
