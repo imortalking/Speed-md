@@ -101,7 +101,7 @@ if scan qr is not working please try using pairing code i am currently working o
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://speed-session-d10e54b1349a.herokuapp.com/wasiqr) or server 2 qr code
     <br>
 <a href="[https://speed-md-qr.onrender.com](https://malvinking2-16a91e661f90.herokuapp.com/wasiqr)"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`](https://replit.com/@malvinking/Speed1?v=1#index.js). Tap here to open Speed app
+2.  [`PARING CODE`](https://cod3uchiha1-bfca01cac304.herokuapp.com/pair). Tap here to open Speed app
     <br>
 <a href="https://speed-session-d10e54b1349a.herokuapp.com/"><img title="app 𝙨𝙚𝙧𝙫𝙚𝙧 " src="https://img.shields.io/badge/ꜱᴩᴇᴇᴅ-ᴍᴅ    APP-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
