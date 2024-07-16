@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+e<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> ꜱᴩᴇᴇᴅ-ᴍᴅ </h1> 
 <p align="center"> Introducing ꜱᴩᴇᴇᴅ-ᴍᴅ, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
@@ -98,12 +98,12 @@
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://speed-session-d10e54b1349a.herokuapp.com/wasiqr) or server 2 qr code
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://king-malvin-session.onrender.com/wasiqr) or server 2 qr code
     <br>
-<a href="[https://speed-md-qr.onrender.com](https://malvinking2-16a91e661f90.herokuapp.com/wasiqr)"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`](https://cod3uchiha1-bfca01cac304.herokuapp.com/pair). Tap here to open Speed app
+<a href="[https://malvin-session.onrender.com/]"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+2.  [`PARING CODE`](https://malvin-session.onrender.com/pair). Tap here to open Speed app
     <br>
-<a href="https://speed-session-d10e54b1349a.herokuapp.com/"><img title="app 𝙨𝙚𝙧𝙫𝙚𝙧 " src="https://img.shields.io/badge/ꜱᴩᴇᴇᴅ-ᴍᴅ    APP-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://king-malvin-session.onrender.com"><img title="app 𝙨𝙚𝙧𝙫𝙚𝙧 " src="https://img.shields.io/badge/ꜱᴩᴇᴇᴅ-ᴍᴅ    APP-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
