@@ -60,7 +60,7 @@
 
 - <a href="https://github.com/malvinking/malvinking-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=spd" width="220" height="38.45"/></a></p>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [KING_MALVIN_MD](https://github.com/malvinking/SPEED-MD-V2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [SPEED MD V2](https://github.com/malvinking/SPEED-MD-V2) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -114,18 +114,18 @@ pm2 start . --name Itxxwasi --attach --time
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow 𝐊𝐈𝐍𝐆_𝐌𝐀𝐋𝐕𝐈𝐍_𝐌𝐃 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
+* [🧑‍💻 Follow 𝐊𝐈𝐍𝐆_𝐌𝐀𝐋𝐕𝐈𝐍 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
 
-* [🧑‍💻 Join 𝐊𝐈𝐍𝐆_𝐌𝐀𝐋𝐕𝐈𝐍_𝐌𝐃Group 🧑‍💻](https://t.me/malvink1ng)
+* [🧑‍💻 Join SPEED MD V2 Group 🧑‍💻](https://t.me/malvink1ng)
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/E6kJ5jQUb3h6cuVyznq7YT)
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/C6mhOzGQqK5Lpu3y7noTOd)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
-- *𝐊𝐈𝐍𝐆_𝐌𝐀𝐋𝐕𝐈𝐍_𝐌𝐃 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *SPEED MD V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use 𝐊𝐈𝐍𝐆_𝐌𝐀𝐋𝐕𝐈𝐍_𝐌𝐃 at your own risk by keeping this warning in mind.*
+- *Use SPEED-MD-V2 at your own risk by keeping this warning in mind.*
   
   #### ```𝙼𝙰𝙻𝚅𝙸𝙽 𝙺𝙸𝙽𝙶 PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/malvinking/count.svg)
