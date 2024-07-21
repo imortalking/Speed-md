@@ -50,22 +50,22 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/wasixd/WASI-MD' // Source URL
-const number = '923135673658'
-var name = ' 𝕎𝔸𝕊𝕀 𝕋𝔼ℂℍ'
+var surl = 'https://github.com/malvinking/KING_MALVIN_MD// Source URL
+const number = '263714757857'
+var name = ' 𝐌𝐀𝐋𝐕𝐈𝐍 𝐊𝐈𝐍𝐆'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/2c30fa9e6f61ef8ba03a2.jpg'
+var image = 'https://telegra.ph/file/72862bb0ac87293d1d198.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 𝐖𝐀𝐒𝐈 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
-│ Name      : 𝐖𝐀𝐒𝐈 
-│ Place       : 𝐈𝐒𝐋𝐀𝐌𝐀𝐁𝐀𝐃, 𝐏𝐀𝐊𝐈𝐒𝐓𝐀𝐍
+│       「 𝐒𝐏𝐄𝐄𝐃 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
+│ Name      : 𝐌𝐀𝐋𝐕𝐈𝐍 𝐊𝐈𝐍𝐆 
+│ Place       : KWEKWE, ZIMBABWE 🇿🇼 
 │ Gender    :  𝐌𝐀𝐋𝐄
-│ Age          : 20
+│ Age          : 19
 │ education : 𝐁𝐒 𝐒𝐄 
 │ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
-│ Phone     : wa.me/923135673658
-│ Youtube   : youtube.com/@wasitech1
-│ GitHub    : https://github.com/Itxxwasi 
+│ Phone     : wa.me/263714757857
+│ Youtube   : youtube.com/@speedtechi
+│ GitHub    : https://github.com/malvinking 
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
