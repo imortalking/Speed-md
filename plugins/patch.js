@@ -323,7 +323,7 @@ ${Config.ownername}
   THANKS DEAR FOR USING 𝐒𝐏𝐄𝐄𝐃 MD V2 👀 \n Hope so you like this bot \n 
 
 *🚩𝐒𝐏𝐄𝐄𝐃-𝐌𝐃-𝐕2🖤*
-ᴋᴇᴇᴘ ᴜsɪɴɢ ᴡᴀsɪ ᴇᴅɪᴛx
+ᴋᴇᴇᴘ ᴜsɪɴɢ ᴍᴀʟᴠɪɴ ᴇᴅɪᴛx
 
 ▱▰▱▰▱▰▱▰▱▰▱▱▰▱▱▰
 
