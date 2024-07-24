@@ -20,13 +20,7 @@ let {
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `*SPEED-MD-V2* 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏
-
- _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_
- *ʟɪɴᴋ:* \n\nhttps://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
-
-*_WATCH HELPFULL VIDEO TUTORIALS ABOUT WHATSAPP BOTS FROM YOUTUBE ♥._*\n\n
-*_https://youtube.com/@speedtechi\n\n *SPEED-MD-V2*\n\n*©MALVIN KING*\n\n ${Config.botname} *WORKS*`;
+    const channelMessage = `*SPEED-MD-V2* 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n_ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n\n*ʟɪɴᴋ:*\n\nhttps://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z\n\n*_WATCH HELPFULL VIDEO TUTORIALS ABOUT WHATSAPP BOTS FROM YOUTUBE ♥._*\n\n*_https://youtube.com/@speedtechi\n\n *SPEED-MD-V2*\n\n*©MALVIN KING*\n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
