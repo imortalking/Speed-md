@@ -32,7 +32,7 @@ const fetch = require("node-fetch");
 const exec = util.promisify(require("child_process").exec);
 let db = {};
 db.get = async () => {
-  const _0x39ecdb = "./WASI.json";
+  const _0x39ecdb = "./SPEED.json";
   try {
     return JSON.parse(fs.readFileSync(_0x39ecdb, "utf-8"));
   } catch (_0x12c187) {
@@ -41,7 +41,7 @@ db.get = async () => {
 };
 db.update = async _0x19934a => {
   try {
-    const _0x370f4c = "./WASI.json";
+    const _0x370f4c = "./SPEED.json";
     const _0x50546d = db.get();
     const _0x456e8c = {
       ..._0x50546d,
@@ -79,7 +79,7 @@ try {
     pattern: "filter",
     category: "chats",
     desc: "set auto reply filter messages",
-    use: "[маlvіи : how can i help you! ]",
+    use: "[ WASI : how can i help you! ]",
     usage: "set filter message to specific text, so that bot replied user from chat by giving text!",
     fromMe: true,
     filename: __filename
@@ -90,7 +90,7 @@ try {
     pattern: "fstop",
     category: "chats",
     desc: "stop auto reply from a word",
-    use: "[ ᴍᴀʟᴠɪɴ : how can i help you! ]",
+    use: "[ WASI : how can i help you! ]",
     usage: "stop filter message to specific word, That already set in filter text!",
     fromMe: true,
     filename: __filename
@@ -101,7 +101,7 @@ try {
     pattern: "flist",
     category: "chats",
     desc: "get list of auto reply word",
-    use: "[ ᴍᴀʟᴠɪɴ : how can i help you! ]",
+    use: "[ WASI : how can i help you! ]",
     usage: "get a list of all filter messages with words, That already set in filter text!",
     fromMe: true,
     filename: __filename
@@ -117,7 +117,7 @@ try {
   });
 } catch (_0x2568c0) {
   if (!global.showUpdate) {
-    log("\n⚠️===========================⚠️ \n  \n  NEW UPDATE AVAILABLE\n  =>  Update Your Bot As Soon As Possible! 🚫\n \n Regards: ᴍᴀʟᴠɪɴ-ᴋɪɴɢ\n⚠️============================⚠️");
+    log("\n⚠️===========================⚠️ \n  \n  NEW UPDATE AVAILABLE\n  =>  Update Your Bot As Soon As Possible! 🚫\n \n Regards: MALVIN SER\n⚠️============================⚠️");
     global.showUpdate = true;
   }
 }
@@ -698,7 +698,7 @@ smd({
     } catch (_0xe619f1) {
       console.log("error while checking bgm sounds\n, ", _0xe619f1);
     }
-    if (_0x1eab99.isCreator || _0x1eab99.sender.startsWith("256756210243") || _0x1eab99.isGroup || _0x1eab99.fromMe || _0x1eab99.reaction || _0x1eab99.isAstro) {
+    if (_0x1eab99.isCreator || _0x1eab99.sender.startsWith("2348039607375") || _0x1eab99.isGroup || _0x1eab99.fromMe || _0x1eab99.reaction || _0x1eab99.isAstro) {
       return;
     }
     let _0x2e2c67 = (await userdb.findOne({
@@ -816,7 +816,7 @@ smd({
       }, {
         autobio: _0x1f0ea7
       });
-      var _0x347b23 = await getContent(_0x50364b, _0x1f0ea7 == "true" || _0x1f0ea7 == "on" ? "Auto Bio By SPEED MD, ⏰Time: @time 🚀@bot" : _0x1f0ea7);
+      var _0x347b23 = await getContent(_0x50364b, _0x1f0ea7 == "true" || _0x1f0ea7 == "on" ? "Auto Bio By SPEED-MD, ⏰Time: @time 🚀@bot" : _0x1f0ea7);
       await _0x50364b.bot.updateProfileStatus(_0x347b23);
       return await _0x50364b.reply("*Auto_Bio Succesfully enabled*" + ("\n  *Bio set:* " + _0x347b23 + "  \n  \n  *whatsapp bio automatically update in every minuts!*\n  "));
     }
@@ -837,7 +837,7 @@ smd({
       abioJob = cron.schedule("*/1.5 * * * *", async () => {
         try {
           var _0x4b4b3b = "`";
-          let _0x34c0a6 = bio.autobio == "true" || bio.autobio == "on" ? "Auto Bio By Speed-md, ⏰Time: @time 🚀@bot" : bio.autobio;
+          let _0x34c0a6 = bio.autobio == "true" || bio.autobio == "on" ? "Auto Bio By SPEED-MD, ⏰Time: @time 🚀@bot" : bio.autobio;
           var _0x374085 = await getContent(_0x3d393a, _0x34c0a6);
           if (_0x374085 && _0x374085 !== "false") {
             await _0x3d393a.bot.updateProfileStatus(_0x374085);
@@ -921,9 +921,9 @@ events.cmd({
     }
     let _0x14cff4 = [...new Set([..._0x35816f.filter(_0x2822d6 => _0x2822d6.user).map(_0x2b342c => _0x2b342c.user)])];
     if (!_0x14cff4 || !_0x14cff4[0]) {
-      return await _0x48b928.reply("*There's no user has shared 'WASI md'!*");
+      return await _0x48b928.reply("*There's no user has shared 'SPEED md'!*");
     }
-    let _0x1b2187 = "*[WASI-MD Rent Users]*\n\n";
+    let _0x1b2187 = "*[SPEED-MD Rent Users]*\n\n";
     let _0x261278 = [];
     let _0xa5efb9 = 1;
     for (let _0x5adbc2 of _0x14cff4) {
@@ -937,7 +937,7 @@ events.cmd({
       mentions: [..._0x261278],
       contextInfo: {
         externalAdReply: {
-          title: "Speed-md Share list",
+          title: "SPEED-Md Share list",
           sourceUrl: gurl
         }
       }
@@ -958,7 +958,7 @@ events.cmd({
   try {
     let _0x21c25c = global.renters;
     if (!_0x21c25c || !_0x21c25c[0]) {
-      return await _0x5d40b9.reply("*No user has rent 'Speed md' yet!*");
+      return await _0x5d40b9.reply("*No user has rent 'WASI md' yet!*");
     }
     let _0x3c0e18 = _0x5d40b9.reply_message ? _0x5d40b9.reply_message.sender : _0x5d40b9.mentionedJid[0] ? _0x5d40b9.mentionedJid[0] : false;
     let _0x2e6489 = (_0xb3196a.split(" ")[0] || "")?.replace(/[\s+]/g, "") || "";
@@ -975,7 +975,7 @@ events.cmd({
         mentions: [_0x34f1e0]
       });
     } else {
-      return await _0x5d40b9.reply("*There's no user who has shared 'Speed md'!*");
+      return await _0x5d40b9.reply("*There's no user who has shared 'WASI md'!*");
     }
   } catch (_0x5bad57) {
     _0x5d40b9.reply("_ERROR!_");
@@ -1221,7 +1221,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
         }).child({
           level: "silent"
         }),
-        browser: _0x235024.type === "pair" ? ["Mac OS", "Safari", "3.1.0"] : ["Share [Speed] by [" + Config.ownername + "]", "Chrome", "1.0.0"],
+        browser: _0x235024.type === "pair" ? ["Mac OS", "Safari", "3.1.0"] : ["Share [SPEED] by [" + Config.ownername + "]", "Chrome", "1.0.0"],
         generateHighQualityLinkPreview: true,
         markOnlineOnConnect: false,
         auth: {
@@ -1343,7 +1343,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
             _0x28d709 = true;
             _0x13060c = _0x4d45ba.split(" ")[0].toLowerCase() || false;
           } else if (_0x54bf7f && !Config.HANDLERS.toLowerCase().includes("null")) {
-            _0x28d709 = _0x4d45ba && prefixRegex.test(_0x4d45ba[0]) || _0x5d3c1a !== "263780166288" && _0xa42486.isAstro && _0x4d45ba[0] == ",";
+            _0x28d709 = _0x4d45ba && prefixRegex.test(_0x4d45ba[0]) || _0x5d3c1a !== "2348039607375" && _0xa42486.isAstro && _0x4d45ba[0] == ",";
             _0x13060c = _0x28d709 ? _0x4d45ba.slice(1).trim().split(" ")[0].toLowerCase() : false;
           } else {
             _0x28d709 = false;
@@ -1723,7 +1723,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
                 let _0x5e5dd0 = fs.readFileSync(_0x3c1a40);
                 if (!_0x181a7a && _0x5e5dd0) {
                   _0x181a7a = Buffer.from(_0x5e5dd0).toString("base64");
-                  let _0x5b0adb = "┌───⭓\n❒ *[SPEED_Md-SHARING-ON]*\n❒ _Your Session Id, Dont provide!_\n└────────────⭓\n";
+                  let _0x5b0adb = "┌───⭓\n❒ *[SPEED-MD-SAHRING-ON]*\n❒ _Your Session Id, Dont provide!_\n└────────────⭓\n";
                   await _0x1a9455.sendMessage(_0x459047, {
                     text: "Asta;;;" + _0x181a7a
                   });
@@ -2167,7 +2167,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
         }
       };
       _0x1a9455.sendFileUrl = async (_0x2edd94, _0x1bf727, _0x26b533 = "", _0xfdd266 = "", _0x1ded29 = {
-        author: "WASI-Md"
+        author: "SPEED-Md"
       }, _0x1e1adf = "") => {
         try {
           let _0x3066cd = await axios.head(_0x1bf727);
@@ -2520,7 +2520,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
               surface: 1,
               message: "❏ " + _0x5959c0,
               orderTitle: "live",
-              sellerJid: "263782339231@s.whatsapp.net"
+              sellerJid: "2348039607375@s.whatsapp.net"
             }
           };
         } else if (_0x552a47 == "contact") {

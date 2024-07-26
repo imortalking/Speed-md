@@ -20,8 +20,6 @@ smd({ cmdname: "hack", type: "fun", info: "hacking prank", filename: __filename 
     " SENDING LOG DOCUMENTS...",
     " SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED"
-    "POWERED BY ꜱᴩᴇᴇᴅ-ᴍᴅ"
-    "By ᴍᴀʟᴠɪɴ-ᴋɪɴɢ"
   ];
 
   let editedMessage;

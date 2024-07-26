@@ -18,15 +18,15 @@
 //                                                                                            //
 //════════════════════════════════════════════════════════════════════════════════════════════//
 *                                                                 
-  * @project_name : Speed-md
-   * @author : Malvin King.
-   * @youtube : https://www.youtube.com/@speedtechi
-   * @description : Speed-Md ,A Multi-functional whatsapp user bot.
+  * @project_name : Gifted-Md
+   * @author : Gifted Tech.
+   * @youtube : https://www.youtube.com/@giftedtechnexus
+   * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
    * @version 2.5.0
 *
 * 
-   * Created By Speed Tech.
-   * © 2024 Speed-Md.
+   * Created By Gifted Tech.
+   * © 2024 Gifted-Md.
 
 
 */
@@ -50,21 +50,21 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/malvinking/Speed-md' // Source URL
-const number = '263780934873'
-var name = ' SPEED 𝕋𝔼ℂℍ'
+var surl = 'https://github.com/malvinking/KING_MALVIN_MD// Source URL
+const number = '263714757857'
+var name = ' 𝐌𝐀𝐋𝐕𝐈𝐍 𝐊𝐈𝐍𝐆'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg'
+var image = 'https://telegra.ph/file/72862bb0ac87293d1d198.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 SPEED 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
-│ Name      : MALVIN KING 
+│       「 𝐒𝐏𝐄𝐄𝐃 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
+│ Name      : 𝐌𝐀𝐋𝐕𝐈𝐍 𝐊𝐈𝐍𝐆 
 │ Place       : KWEKWE, ZIMBABWE 🇿🇼 
 │ Gender    :  𝐌𝐀𝐋𝐄
 │ Age          : 19
-│ education : 𝐁𝐒c IT 
+│ education : 𝐁𝐒 𝐒𝐄 
 │ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
-│ Phone     : wa.me/263780934873
-│ Youtube   : https://www.youtube.com/@speedtechi
+│ Phone     : wa.me/263714757857
+│ Youtube   : youtube.com/@speedtechi
 │ GitHub    : https://github.com/malvinking 
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
@@ -76,7 +76,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
  //---------------------------------------------------------------------------
  smd({
              pattern: "intro",
-             alias: ["speed","spe"],
+             alias: ["wasi","waso"],
              desc: "Show intro of user",
              category: "fun",
              filename: __filename,

@@ -20,7 +20,7 @@ let {
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `ꜱᴩᴇᴇᴅ ᴛᴇᴄʜ 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍E𝐋𝐄 𝐅𝐎𝐋𝐋𝐎𝐖 𝐑𝐄𝐐_\n *𝐋𝐈𝐍𝐊:* https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z\n\n ${Config.botname} *WORKS*`;
+    const channelMessage = `*SPEED-MD-V2* 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n_ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n\n*ʟɪɴᴋ:*\n\nhttps://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z\n\n*_WATCH HELPFULL VIDEO TUTORIALS ABOUT WHATSAPP BOTS FROM YOUTUBE ♥._*\n\n*_https://youtube.com/@speedtechi\n\n *SPEED-MD-V2*\n\n*©MALVIN KING*\n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -39,7 +39,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = 'ꜱᴩᴇᴇᴅ-ᴍᴅ 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏\n\n *ʟɪɴᴋ:*https://chat.whatsapp.com/CibIQyQI3Em1HbUD0aVXez \n\n ${Config.botname} *WORKS*`;
+    const SupportMsg = `𝐒𝐏𝐄𝐄𝐃 𝐌𝐃 𝐕2 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏\n\n *https://chat.whatsapp.com/C6mhOzGQqK5Lpu3y7noTOd \n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -281,7 +281,7 @@ smd(
          edit: _0x2d7cf6
        }, "asta", _0x4e7c63);
      } catch (_0x28ce7e) {}
-     let _0x50f17a = " *乂 ꜱᴩᴇᴇᴅ-ᴍᴅ－Ｖ２ ＣＯＭＭＡＮＤＳ ＬＩＳＴ ＡＮＤ ＦＵＮ*\n\n\n  ◦ _Total Features ➪ " + _0x4cf8ed + "_\n  \n*◦ LIST DOWN THE FEATURES*\n\n      _Commands ➪ " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
+     let _0x50f17a = " *乂 S P E E D－ＭＤ－Ｖ２ ＣＯＭＭＡＮＤＳ ＬＩＳＴ ＡＮＤ ＦＵＮ*\n\n\n  ◦ _Total Features ➪ " + _0x4cf8ed + "_\n  \n*◦ LIST DOWN THE FEATURES*\n\n      _Commands ➪ " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
      await _0x4e7c63.bot.relayMessage(_0x4e7c63.chat, {
        requestPaymentMessage: {
          currencyCodeIso4217: "NG",

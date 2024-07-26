@@ -102,7 +102,7 @@ smd({
     try{
         let mm =   m.image ? m : m.reply_message && m.reply_message.image ? m.reply_message : false; 
         
-  let too = `*Separate the text with _:_ sign!*\n*Example : ${prefix + smd} WASI _:_ Bot*`
+  let too = `*Separate the text with _:_ sign!*\n*Example : ${prefix + smd} SPEED _:_ Bot*`
   if(!mm) {
     let str = `┌───〈 *ᴇᴅɪᴛᴏʀ ᴍᴇɴᴜ*  〉───◆
 │╭─────────────···▸
@@ -124,3 +124,4 @@ return await m.sendUi(m.chat, { caption: str})
 }
 }catch(e){ m.error(`${e}\n\nCommand: ${smd}`,e,false)}
  })
+
